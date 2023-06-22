@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>feriman@gmail.com</email>
+		<name>Vitaliy Perekhovy</name>
+	</maintainer>
+	<upstream>
+		<remote-id type="github">Ximi1970/systray-x</remote-id>
+		<bugs-to>https://github.com/Ximi1970/systray-x/issues</bugs-to>
+	</upstream>
+</pkgmetadata>
