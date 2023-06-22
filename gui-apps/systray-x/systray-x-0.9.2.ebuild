@@ -39,7 +39,7 @@ BDEPEND="app-arch/zip"
 
 src_prepare() {
 	default
-	sed -i "s/qmake-qt5/qmake5/g" Makefile
+	sed -i "s/qmake-qt5/qmake5/g" Makefile || die
 }
 
 src_compile() {
